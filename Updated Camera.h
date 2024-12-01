@@ -12,7 +12,7 @@ Camera get_view_point()
     view_point.location = read<Vector3>(location_pointer);
     view_point.rotation.x = asin(fnrot.c) * (180.0 / M_PI);
     view_point.rotation.y = ((atan2(fnrot.a * -1, fnrot.b) * (180.0 / M_PI)) * -1) * -1;
-    auto fov_radians = read<float>(cache::player_controller + 0x3AC) * 90.f;
+    auto fov_radians = read<float>(cache::player_controller + 0x3AC) * 2;
     view_point.fov * 180.0f / std::numbers::pi;
     return view_point;
 }
