@@ -20,6 +20,9 @@ VELOCITY 0x168 //fresh dump
 PersistentLevel = 0x40 //fresh dump
 WeaponData = 0x568 //fresh dump
 CurrentWeapons = 0xa80 //fresh dump
+PlayerName: 0xAF8 //fresh dump
+ProjectileSpeed: 0x1A24 //fresh dump
+ProjectileGravity: 0x1DF0 //fresh dump
 
 
   ALL OFFSETS UPDATED ENJOY!
