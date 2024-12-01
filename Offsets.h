@@ -1,8 +1,20 @@
-UWORLD 0x13723C18 //fresh dump
-GAME_INSTANCE 0x200 //fresh dump
-GAME_STATE 0x188 //fresh dump
-PLAYER_CONTROLLER 0x30 //fresh dump
-LOCAL_PLAYERS 0x38 //fresh dump
-BONE_ARRAY 0x5A8 //fresh dump
-RELATIVE_LOCATION 0x120 //NOT SURE IF CORRECT
+#define UWORLD 0x13723C18 //fresh dump
+#define GAME_INSTANCE 0x200 //fresh dump
+#define LOCAL_PLAYERS 0x38 //fresh dump
+#define PLAYER_CONTROLLER 0x30 //fresh dump
+#define LOCAL_PAWN 0x350 //fresh dump
+#define PAWN_PRIVATE 0x320 //fresh dump
+#define ROOT_COMPONENT 0x1B0 //fresh dump
+#define RELATIVE_LOCATION 0x120 //not sure
+#define PLAYER_STATE 0x2B0 //not sure
+#define TEAM_INDEX 0x1239 //not sure
+#define GAME_STATE 0x188 //fresh dump
+#define PLAYER_ARRAY 0x2C0 //not sure
+#define MESH 0x328 //fresh dump
+#define COMPONENT_TO_WORLD 0x1c0 //not sure
+#define BONE_ARRAY 0x5A8 //fresh dump
+#define BONE_ARRAY_CACHE 0x590 //fresh dump
+#define LAST_SUBMIT_TIME 0x2EC //not sure
+#define LAST_SUBMIT_TIME_ON_SCREEN 0x2F0 //not sure
+#define VELOCITY 0x168 //not sure
 IMA DROP MORE OFFSETS IN ABIT!
