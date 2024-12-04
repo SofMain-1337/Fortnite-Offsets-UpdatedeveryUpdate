@@ -1,5 +1,5 @@
-UWORLD 0x13723C18 //fresh dump
-GAME_INSTANCE 0x200 //fresh dump
+UWORLD 0x13743D18 //fresh dump
+GAME_INSTANCE 0x1f0 //fresh dump
 LOCAL_PLAYERS 0x38 //fresh dump
 PLAYER_CONTROLLER 0x30 //fresh dump
 LOCAL_PAWN 0x350 //fresh dump
@@ -8,7 +8,7 @@ ROOT_COMPONENT 0x1B0 //fresh dump
 RELATIVE_LOCATION 0x138 //fresh dump
 PLAYER_STATE 0x2C8 //fresh dump
 TEAM_INDEX 0x1261 //fresh dump
-GAME_STATE 0x188 //fresh dump
+GAME_STATE 0x178 //fresh dump
 PLAYER_ARRAY 0x2C0 //fresh dump
 MESH 0x328 //fresh dump
 COMPONENT_TO_WORLD 0x1E0 //fresh dump
